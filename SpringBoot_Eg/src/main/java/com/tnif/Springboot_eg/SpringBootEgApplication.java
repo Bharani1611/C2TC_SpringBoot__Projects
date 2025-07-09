@@ -8,7 +8,7 @@ public class SpringBootEgApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootEgApplication.class, args);
-		System.out.println("Bharani_Dass");
+		System.out.println("Bharani_Dass.co");
 	}
 
 }
